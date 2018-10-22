@@ -10,4 +10,4 @@ if (foo) {
     // ...
 }
 
-console.log('test');;
+console.log('test');
